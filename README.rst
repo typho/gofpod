@@ -3,6 +3,8 @@ gofpod
 
 PDF library in Go
 
+The PDF specification is available at `adobe.com <http://wwwimages.adobe.com/content/dam/Adobe/en/devnet/pdf/pdfs/PDF32000_2008.pdf>`_.
+
 Similar software
 ----------------
 
@@ -18,6 +20,7 @@ Other ressources and scripts
 ----------------------------
 
 * `PDFTricks by corkami <https://code.google.com/p/corkami/wiki/PDFTricks>`_
+* `ParanoiDF PDF analysis suite <https://github.com/patrickdw123/ParanoiDF>`_
 * `pdfextract by Luc Devroye <http://luc.devroye.org/pdfextract.html>`_
 * make-pdf
 * pdf-analyze.py
